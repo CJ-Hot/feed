@@ -1,16 +1,16 @@
 {
   "urls": [
     {
-      "url": "clan://localhost/tvbox/wangerxiao/wangerxiao.json",
-      "name": "🚀多多┃王二小线路"
+      "url": "./wangerxiao/wangerxiao.json",
+      "name": "我的┃王二小线路"
     },
     {
       "url": "clan://localhost/tvbox/fty/fty.json",
-      "name": "fty"
+      "name": "我的┃饭太硬"
     },
     {
       "url": "clan://localhost/tvbox/111/111.json",
-      "name": "🚀111"
+      "name": "我的|合集"
     }
   ]
 }
