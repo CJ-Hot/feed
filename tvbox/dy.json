@@ -1,15 +1,15 @@
 {
   "urls": [
     {
-      "url": "./wangerxiao/wangerxiao.json",
+      "url": "https://cdn.jsdelivr.net/gh/CJ-Hot/feed@9c2abec06a94832b6cee892e8103837a2857140e/tvbox/wangerxiao/wangerxiao.json",
       "name": "我的┃王二小线路"
     },
     {
-      "url": "./fty/fty.json",
+      "url": "https://cdn.jsdelivr.net/gh/CJ-Hot/feed@9c2abec06a94832b6cee892e8103837a2857140e/tvbox/wangerxiao/wangerxiao.json",
       "name": "我的┃饭太硬"
     },
     {
-      "url": "./111/111.json",
+      "url": "https://cdn.jsdelivr.net/gh/CJ-Hot/feed@9c2abec06a94832b6cee892e8103837a2857140e/tvbox/111/111.json",
       "name": "我的|合集"
     }
   ]
